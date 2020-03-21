@@ -11,8 +11,8 @@ def fizzbuzz(int)
     "nil"
 end
 
-fizzbuzz(1)
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz(15)
-fizzbuzz(30)
+puts fizzbuzz(1)
+puts fizzbuzz(3)
+puts fizzbuzz(5)
+puts fizzbuzz(15)
+puts fizzbuzz(30)
