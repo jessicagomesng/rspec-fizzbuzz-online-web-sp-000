@@ -10,3 +10,8 @@ def fizzbuzz(int)
   else
     "nil"
 end
+
+fizzbuzz(1)
+fizzbuzz(3)
+fizzbuzz(5)
+fizzbuzz(15)
